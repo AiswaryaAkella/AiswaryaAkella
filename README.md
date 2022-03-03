@@ -1,6 +1,6 @@
 - 👋 Hello!! I’m Aiswarya Akella
 - 👀 I’m interested in building queries in using MySQL, SQL Server, and PostgreSQL and DataBases
-- 💞️ I’m looking to collaborate on sloving problems related to databases and identify and retrive important information with SQL 
+- 💞️ I’m looking to collaborate on sloving problems related to databases to identify and retrive important information with SQL 
 - 📫 How to reach me @ aiswaryaakella19@gmail.com
 
 <!---
