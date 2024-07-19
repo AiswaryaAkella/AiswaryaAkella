@@ -1,7 +1,7 @@
 - 👋 Hello!! I’m Aiswarya Akella
 - 👀 I’m interested in Front End Development
 - 💞️ I’m looking to collaborate on making responsive web applications
-- 📫 How to reach me @ aiswaryaa1919@gmail.com
+- 📫 How to reach me @ aiswaryaakella123@gmail.com
 
 <!---
 AiswaryaAkella/AiswaryaAkella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
